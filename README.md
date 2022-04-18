@@ -1,4 +1,4 @@
-# Rust_Programming for and from Dwayne Brock
+# Rust_Programming 
 
 My name is Milburn Dwayne Brock. I am an individual programmer.
 
