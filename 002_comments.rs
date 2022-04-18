@@ -16,8 +16,8 @@ fn main() {
 		is
 	 	  a
 	 	   multi-line
-	 				 comment. 
-	 						  */
+	 		     comment. 
+	 			      */
 	 
 	 							
 /* This is the traditional form of a block-type coment.
