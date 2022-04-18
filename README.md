@@ -20,5 +20,5 @@ Suggested sources for learning Rust:
 
   see the website https://www.rust-lang.org/.
   
-  from this website, locate The Rust Book, Rust by Example, and The Rust Reference.
+  From this website, locate The Rust Book, Rust by Example, and The Rust Reference.
   Also the OReilly book Programming Rust by Blandy, Orendorff, and Tindall, 2nd Edition was very useful.
