@@ -34,7 +34,7 @@ fn main() {
     println!("\tnum_x = 27, num_y = 3, and num_z = 2;");
 	println!("\t\t\tMultiplication Result: \t\t {}", result_1);
 	
-	//DIVISION
+//DIVISION
     let num_x: i16 = 27;
     let num_y: i16 = 3;
     let result_1 = num_x / num_y;
@@ -43,7 +43,7 @@ fn main() {
     println!("\tnum_x = 27 and num_y = 3;");
     println!("\t\t\tDivision Result: \t\t {}", result_1);
 	
-	//REMAINDER
+//REMAINDER
     let num_x: i16 = 29;
     let num_y: i16 = 2;
     let result_1 = num_x % num_y;
@@ -52,6 +52,6 @@ fn main() {
     println!("\tnum_x = 29 and num_y = 2;");
     println!("\t\t\tModulus Result: \t\t {}", result_1);
 	
-	println!("\nEND OF PROGRAM.\n");
+    println!("\nEND OF PROGRAM.\n");
 
 }
