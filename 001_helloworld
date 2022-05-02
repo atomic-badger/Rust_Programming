@@ -1,5 +1,5 @@
 // HELLO WORLD PROGRAM
 
-	fn main(){
-		println!("Hello World, from Dwayne!");
-	    }
+fn main() {
+    println!("Hello World, from Dwayne!");
+}
